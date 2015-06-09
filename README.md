@@ -7,8 +7,8 @@ Add the Nuget.xml file in the.Nuget folder and set the ServerUrl and ApiKey.
  
 NuGet.xml like this：
 
-<?xml version="1.0" encoding="utf-8"?>
-<SelfServer> 
-  <Url>http://localhost:88</Url> 
-  <ApiKey>123</ApiKey>
-</SelfServer>
+    <?xml version="1.0" encoding="utf-8"?>
+    <SelfServer> 
+      <Url>http://localhost:88</Url> 
+      <ApiKey>123</ApiKey>
+    </SelfServer>
