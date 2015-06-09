@@ -13,3 +13,4 @@ NuGet.xml like this：
       <ApiKey>123</ApiKey>
     </SelfServer>
 
+![push2nugetpic](http://images.cnblogs.com/cnblogs_com/idoudou/682251/o_push2nuget.png)
