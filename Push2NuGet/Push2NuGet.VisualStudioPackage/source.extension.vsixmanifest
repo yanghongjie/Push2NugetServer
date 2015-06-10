@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="5ba75ccc-488c-41aa-a752-0faeea576429" Version="1.0" Language="en-US" Publisher="逗豆豆" />
+    <Identity Id="5ba75ccc-488c-41aa-a752-0faeea576429" Version="1.1" Language="en-US" Publisher="逗豆豆" />
     <DisplayName>Push2NuGet</DisplayName>
     <Description>打包并上传到NuGet服务器。</Description>
     <MoreInfo>https://github.com/yanghongjie/Push2NuGetServer</MoreInfo>
